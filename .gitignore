@@ -1,0 +1,9 @@
+   target/
+   .idea/
+   *.iml
+   node_modules/
+   .angular/
+   dist/
+   __pycache__/
+   .env
+   *.log
